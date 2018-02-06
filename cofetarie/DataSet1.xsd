@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="cofetarieConnectionString2" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="cofetarieConnectionString2 (Settings)" PropertyReference="ApplicationSettings.cofetarie.Properties.Settings.GlobalReference.Default.cofetarieConnectionString2" Provider="System.Data.Odbc" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="cofetarieConnectionString2 (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT f.furnizor_nume, f.adresa, f.oras, cf.comandaf_id, cf.datacomanda, cf.datalimita, cf.datalivrare
+FROM FURNIZORI f INNER JOIN COMENZI_FURNIZORI cf ON f.furnizor_id = cf.furnizor_id
+WHERE cf.datalivrare IS NOT NULL</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="furnizor_nume" DataSetColumn="furnizor_nume" />
+              <Mapping SourceColumn="adresa" DataSetColumn="adresa" />
+              <Mapping SourceColumn="oras" DataSetColumn="oras" />
+              <Mapping SourceColumn="comandaf_id" DataSetColumn="comandaf_id" />
+              <Mapping SourceColumn="datacomanda" DataSetColumn="datacomanda" />
+              <Mapping SourceColumn="datalimita" DataSetColumn="datalimita" />
+              <Mapping SourceColumn="datalivrare" DataSetColumn="datalivrare" />
+            </Mappings>
+            <Sources>
+              <DbSource ConnectionRef="cofetarieConnectionString2 (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="FillByNoDelivery" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetDataByNoDelivery" GeneratorSourceName="FillByNoDelivery" GetMethodModifier="Public" GetMethodName="GetDataByNoDelivery" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataByNoDelivery" UserSourceName="FillByNoDelivery">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT f.furnizor_nume, f.adresa, f.oras, cf.comandaf_id, cf.datacomanda, cf.datalimita, cf.datalivrare
+FROM FURNIZORI f INNER JOIN COMENZI_FURNIZORI cf ON f.furnizor_id = cf.furnizor_id
+WHERE cf.datalivrare IS NULL
+</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="furnizor_nume" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnfurnizor_nume" msprop:Generator_ColumnPropNameInRow="furnizor_nume" msprop:Generator_ColumnPropNameInTable="furnizor_numeColumn" msprop:Generator_UserColumnName="furnizor_nume" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="adresa" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnadresa" msprop:Generator_ColumnPropNameInRow="adresa" msprop:Generator_ColumnPropNameInTable="adresaColumn" msprop:Generator_UserColumnName="adresa" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="oras" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnoras" msprop:Generator_ColumnPropNameInRow="oras" msprop:Generator_ColumnPropNameInTable="orasColumn" msprop:Generator_UserColumnName="oras" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="comandaf_id" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columncomandaf_id" msprop:Generator_ColumnPropNameInRow="comandaf_id" msprop:Generator_ColumnPropNameInTable="comandaf_idColumn" msprop:Generator_UserColumnName="comandaf_id" type="xs:decimal" />
+              <xs:element name="datacomanda" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columndatacomanda" msprop:Generator_ColumnPropNameInRow="datacomanda" msprop:Generator_ColumnPropNameInTable="datacomandaColumn" msprop:Generator_UserColumnName="datacomanda" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="datalimita" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columndatalimita" msprop:Generator_ColumnPropNameInRow="datalimita" msprop:Generator_ColumnPropNameInTable="datalimitaColumn" msprop:Generator_UserColumnName="datalimita" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="datalivrare" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columndatalivrare" msprop:Generator_ColumnPropNameInRow="datalivrare" msprop:Generator_ColumnPropNameInTable="datalivrareColumn" msprop:Generator_UserColumnName="datalivrare" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DataTable1" />
+      <xs:field xpath="mstns:comandaf_id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

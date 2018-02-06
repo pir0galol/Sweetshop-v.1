@@ -1,0 +1,261 @@
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\bin\Debug\cofetarie.exe.config
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\bin\Debug\cofetarie.exe
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\bin\Debug\cofetarie.pdb
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\bin\Debug\MetroFramework.Design.dll
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\bin\Debug\MetroFramework.dll
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\bin\Debug\Npgsql.dll
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\bin\Debug\Npgsql.pdb
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\bin\Debug\Npgsql.xml
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.csprojResolveAssemblyReference.cache
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.AdaugaFurnizori.resources
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.Angajati.resources
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.Angajati_AddEdit.resources
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.ComenziFurnizori.resources
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.Facturi.resources
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.Form1.resources
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.MenuPrincipal.resources
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.ModificaFurnizori.resources
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.NavigareFurnizori.resources
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.Plati_initial.resources
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.Properties.Resources.resources
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.csproj.GenerateResource.Cache
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.exe
+C:\Users\EU\Documents\Visual Studio 2015\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.pdb
+D:\Programe\cofetarie\cofetarie\bin\Debug\cofetarie.exe.config
+D:\Programe\cofetarie\cofetarie\bin\Debug\cofetarie.exe
+D:\Programe\cofetarie\cofetarie\bin\Debug\cofetarie.pdb
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Npgsql.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\EnvDTE.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\stdole.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.MSXML.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Npgsql.xml
+D:\Programe\cofetarie\cofetarie\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Programe\cofetarie\cofetarie\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.Angajati.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.Angajati_AddEdit.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.Clienti.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.ComenziC.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.ComenziF.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.Facturi.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.FormularPreluareCantitate.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.Furnizori.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.MenuPrincipal.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.Plati.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.PlatiClienti.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.Properties.Resources.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.RaportComenziClienti.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.RComenziClienti.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.RComenziFurnizori.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.RProfitPierdere.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.RStocuri.resources
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.csproj.GenerateResource.Cache
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.csproj.CoreCompileInputs.cache
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.exe
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.pdb
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\cofetarie.exe.config
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\cofetarie.exe
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\cofetarie.pdb
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\MetroFramework.Design.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\MetroFramework.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Npgsql.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\EnvDTE.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\stdole.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Microsoft.MSXML.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\Npgsql.xml
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.Angajati.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.Angajati_AddEdit.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.Clienti.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.ComenziC.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.ComenziF.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.Facturi.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.FormularPreluareCantitate.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.Furnizori.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.MenuPrincipal.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.Plati.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.PlatiClienti.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.Properties.Resources.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.RaportComenziClienti.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.RComenziClienti.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.RComenziFurnizori.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.RProfitPierdere.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.RStocuri.resources
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.csproj.GenerateResource.Cache
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.csproj.CoreCompileInputs.cache
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.exe
+C:\Users\EU\Documents\Visual Studio 2017\Projects\cofetarie\cofetarie\obj\Debug\cofetarie.pdb
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.Build.Framework.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\EnvDTE80.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\VSLangProj.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\VSLangProj80.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Newtonsoft.Json.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\VSLangProj2.dll
+D:\Programe\cofetarie\cofetarie\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.csprojResolveAssemblyReference.cache
+D:\Programe\cofetarie\cofetarie\obj\Debug\cofetarie.csproj.cofetarie.exe.config
